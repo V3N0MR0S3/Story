@@ -1,1 +1,3 @@
 what's up move to git right now
+
+I changet this txt cuz i wanted to see and learn how git branch works.

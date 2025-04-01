@@ -1,1 +1,4 @@
 final chapter , we are having fun with git shit !
+
+
+I changet this txt cuz i wanted to see and learn how git branch works.
